@@ -1,0 +1,7 @@
+C:\Users\tanulo\source\repos\gyak\gyak\bin\Debug\gyak.exe.config
+C:\Users\tanulo\source\repos\gyak\gyak\bin\Debug\gyak.exe
+C:\Users\tanulo\source\repos\gyak\gyak\bin\Debug\gyak.pdb
+C:\Users\tanulo\source\repos\gyak\gyak\obj\Debug\gyak.csprojAssemblyReference.cache
+C:\Users\tanulo\source\repos\gyak\gyak\obj\Debug\gyak.csproj.CoreCompileInputs.cache
+C:\Users\tanulo\source\repos\gyak\gyak\obj\Debug\gyak.exe
+C:\Users\tanulo\source\repos\gyak\gyak\obj\Debug\gyak.pdb
